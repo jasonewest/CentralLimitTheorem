@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 st.title('Illustrating the Central Limit Theorem with Streamlit')
 
-st.subheader('An App by Tyler Richards')
+st.subheader('An App by Jason West')
 
 st.write(('This app simulates a thousand coin flips using the chance of heads input below,'
 
